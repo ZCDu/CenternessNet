@@ -1,0 +1,3 @@
+let l:bm_file_version = 1
+let l:bm_sessions = {'default': {'/media/dl/train_disk/zcdu/work/CenterNet/test/coco.py': [{'sign_idx': 9500, 'line_nr': 364, 'content': '    detections = db.convert_to_coco(top_bboxes)'},],'/home/zcdu/test/mmdetection/mmdet/models/losses/focal_loss.py': [{'sign_idx': 9500, 'line_nr': 57, 'content': 'class FocalLoss(nn.Module):'},],}}
+let l:bm_current_session = 'default'
